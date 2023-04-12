@@ -291,7 +291,7 @@ export default function Home() {
               </li>
               <li>
                 <Link
-                  href="https://github.com/arpandesai/TaxBuddyAI"
+                  href="https://github.com/UnitasLink/TaxBuddyAI"
                   className={`flex items-start text-[#EDF4F4] mx-6 text-[16px] font-bold cursor-pointer`}
                   target="_blanck"
                 >
@@ -305,7 +305,7 @@ export default function Home() {
               </li>
               <li>
                 <Link
-                  href="https://github.com/arpandesai/TaxBuddyAI/tree/main/docs"
+                  href="https://github.com/UnitasLink/TaxBuddyAI/tree/main/docs"
                   className={`flex items-start text-[#EDF4F4] mx-6 text-[16px] font-bold cursor-pointer`}
                   target="_blanck"
                 >
