@@ -56,7 +56,7 @@ CLERK_SECRET_KEY=
 
 **This repo can load multiple PDF files**
 
-1. Inside `docs` folder, add your pdf files or folders that contain pdf files.
+1. Inside `docs` folder, add your pdf files or folders that contain pdf files. If you have json data add json data to `jsonData array`. path is `/docs/jsonData/data.js`. Run the script `npm run jsontopdf` to convert your data to pdf file.   
 
 2. Run the script `npm run ingest` to 'ingest' and embed your docs. If you run into errors troubleshoot below.
 
