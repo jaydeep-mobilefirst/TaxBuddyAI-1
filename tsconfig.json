@@ -24,6 +24,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/GuidlineModal.tsx", "src/components/modal.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/GuidlineModal.tsx", "src/components/modal.js", "scripts/jsontopdf.js"],
   "exclude": ["node_modules"]
 }
